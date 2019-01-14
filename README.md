@@ -8,7 +8,7 @@
 
 #~/文档/vnote_notebooks#	git status  
 
-#~/文档/vnote_notebooks#	git commit -m "zoro"	  
+#~/文档/vnote_notebooks#	git commit -m "注释得写"	  
 
 #~/文档/vnote_notebooks#	git remote add origin https://github.com/your/Repositories  
 
