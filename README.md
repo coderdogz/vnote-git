@@ -17,7 +17,7 @@
 
 此时初始化后的仓库已经push到你的私有仓，接下来执行下面2行，将此私有仓设置为免密push pull 方便脚本执行。  
 
-在仓库下执行一下命令，实现免密push，pull。  
+在仓库下执行以下命令，实现免密push，pull。  
 
 
 #~/文档/vnote_notebooks#	git config --global credential.helper store  
