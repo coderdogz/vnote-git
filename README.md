@@ -1,3 +1,6 @@
+其实就是提供一种思路，因为Vnote本身是一个单机的md软件，所以可以结合很多外部的服务来成为云笔记，
+https://github.com/tamlok/vnote/issues/160
+
 # vnote-git
 使用 私有仓库 + VNote 实现笔记备份
 将VNote 根目录  /root/文档/vnote_notebooks 初始化私有仓库：
